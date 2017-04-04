@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 500 color group App branding color for the app bar-->
+        <item name="colorPrimary">#8bc34a</item>
+        <!-- 700 color group status bar and drop downs -->
+        <item name="colorPrimaryDark">#689F38</item>
+        <!-- theme ui controls like check boxes and text fields -->
+        <item name="colorAccent">#1b5e20</item>
+    </style>
+
+    <style name="CustomText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#4527A0</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
